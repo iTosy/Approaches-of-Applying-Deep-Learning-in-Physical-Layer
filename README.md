@@ -10,3 +10,18 @@ In this project I try some algorithm used for the communication process in physi
 * Modulation with and without encoding and Block Error Ratio for different SNR
 * A comparison between Autoencoder and Reed Solomon encoding algorithm
 * The residual Binarized Neurak Network Autoencoder
+
+## Libraries
+
+* Tensorflow
+* Keras
+* Pyitpp
+* Numpy
+* Matplotlib
+
+## Usage
+
+* Importing pyitpp
+  pyitpp is a pybind library of the itpp library for C++.
+  The python version (pyitpp) doesn't have Reed Solomon encoding, so for be able to use Reed solomon you should follow these instruction:
+  
