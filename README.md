@@ -21,7 +21,7 @@ In this project I try some algorithm used for the communication process in physi
 
 ## Usage
 
-* Importing pyitpp
-  pyitpp is a pybind library of the itpp library for C++.
-  The python version (pyitpp) doesn't have Reed Solomon encoding, so for be able to use Reed solomon you should follow these instruction:
+* Importing pyitpp <br/>
+  pyitpp is a pybind library of the itpp library for C++. <br/>
+  The python version (pyitpp) doesn't have Reed Solomon encoding, so for be able to use Reed solomon you should follow these instruction: <br/>
   
