@@ -24,3 +24,4 @@ In this project I try some algorithm used for the communication process in physi
 * Importing pyitpp <br/>
   pyitpp is a pybind library of the itpp library for C++. <br/>
   The python version (pyitpp) doesn't have Reed Solomon encoding, so to be able to use Reed solomon you should follow the instructions after running the first two cells in (autoenco VS RS.ipynb) and use them for (autoenco VS RS.ipynb),(uncoding&coding.ipynb)
+* for more info about installing pyitpp check this repo https://github.com/vidits-kth/py-itpp
